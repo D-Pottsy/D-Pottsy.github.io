@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dan Potts"
-  avatar           : "./images/profile.jpg"
+  avatar           : "profile.jpeg"
   bio              : "PhD Candidate at the University of Leicester. Researching smarter analysis of satellite data for air quality regulators. Earth Observation Enthusiast"
   location         : "University of Leicester, UK"
   employer         :
