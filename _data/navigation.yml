@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://d-pottsy.github.io/publications/
-    
   - title: "Posts"
     url: https://d-pottsy.github.io/year-archive/
+    
+  - title: "Publications"
+    url: https://d-pottsy.github.io/publications/
     
   - title: "CV"
     url: https://d-pottsy.github.io/cv/
