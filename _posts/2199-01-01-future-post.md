@@ -18,7 +18,7 @@ Last year, whilst showing my Environment Agency supervisor some plots of NO2 emi
 
 ---
 
-![Graphical Abstract](/images/f02.png)
+![Graphical Abstract](/images/f02.png width=50% height=50%)
 
 ---
 
