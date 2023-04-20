@@ -16,5 +16,7 @@ I've recently began to explore other remote sensing datasets in my spare time, a
 
 If you're interested in anything I do, or would like more info, please feel free to contact me (dap33@leicester.ac.uk). 
 
-![Tropospheric NO2 over the UK](/images/UK_NO2.png)
+---
 
+![Tropospheric NO2 over the UK](/images/UK_NO2.png)
+*Tropospheric NO2 over the UK for 2018-2020. Data from TROPOMI/ESA, oversampled onto a 0.01 x 0.01 degree grid.*
