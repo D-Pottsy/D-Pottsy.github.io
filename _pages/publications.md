@@ -9,7 +9,7 @@ author_profile: true
 
 ### Published
 
-
+- **Potts, D.A.**, Timmis, R., Ferranti, E. J. S., and Vande Hey, J. D. *Identifying and accounting for the Coriolis effect in satellite NO2 observations and emission estimates*. Atmos. Chem. Phys., 23, 4577–4593, https://doi.org/10.5194/acp-23-4577-2023, 2023. [Link to paper](https://doi.org/10.5194/acp-23-4577-2023)
 
 - Lester, M., Sanchez-Cano, B., **Potts, D.A.**, Lillis, R., Cartacci, M., Bernardini, F., et al. *The impact of energetic particles on the Martian ionosphere during a full solar cycle of radar observations: Radar blackouts*. Journal of Geophysical Research: Space Physics, 127, e2021JA029535. https://doi.org/10.1029/2021JA029535, 2022. [Link to paper](https://doi.org/10.1029/2021JA029535, 2022)
 
