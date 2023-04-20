@@ -10,7 +10,7 @@ tags:
   - Meteorology
 ---
 
-Last year, whilst showing my Environment Agency supervisor some plots of NO<sub>2,/sub> emission plumes from various power stations around the world, we noticed something. In a wind rotated average, the averaged plume from a German powerstation ever so slightly deviated clockwise from the horizontal axis, and a powerstation we were investigating in South Africa deviated ever so slightly anti-clockwise. That afternoon I ran a few more sites, and after confirming our suspicions I began a 3 month investigation into the Coriolis effect, climate polluters and the impact of curvature on emission estimates. Below is the paper that came from the study, finally published in Atmospheric Chemistry and Physics. 
+Last year, whilst showing my Environment Agency supervisor some plots of NO<sub>2</sub> emission plumes from various power stations around the world, we noticed something. In a wind rotated average, the averaged plume from a German powerstation ever so slightly deviated clockwise from the horizontal axis, and a powerstation we were investigating in South Africa deviated ever so slightly anti-clockwise. That afternoon I ran a few more sites, and after confirming our suspicions I began a 3 month investigation into the Coriolis effect, climate polluters and the impact of curvature on emission estimates. Below is the paper that came from the study, finally published in Atmospheric Chemistry and Physics. 
 
 --- 
 
