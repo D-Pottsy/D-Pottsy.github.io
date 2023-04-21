@@ -14,7 +14,7 @@ I am a PhD student at the University of Leicester, within the Earth Observation 
 
 I've recently began to explore other remote sensing datasets in my spare time, and I've developed a sort of "hobby" out of presenting interesting or relevant Earth observation data, which I post to my twitter. [Take a look!](https://www.twitter.com/Sentinel_DanP)
 
-If you're interested in anything I do, or would like more info, please feel free to contact me (dap33@leicester.ac.uk). 
+If you're interested in anything I do, or would like more info, please feel free to contact me (dap33@leicester.ac.uk). I've also worked in the past to help people access satellite data. If you want to incorporate satellite data into a project or news story you're working on, but don't know where to start, please feel free to reach out! 
 
 ---
 
