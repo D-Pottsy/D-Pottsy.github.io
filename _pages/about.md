@@ -1,6 +1,3 @@
-![Tropospheric NO2 over the UK](/images/Global_NO2.png)
-<sub><sub>*Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.*</sub></sub>
-
 ---
 permalink: /
 title: "Home"
@@ -10,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![Tropospheric NO2 over the UK](/images/Global_NO2.png)
+<sub><sub>*Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.*</sub></sub>
 
 Welcome to my personal website! 
 
