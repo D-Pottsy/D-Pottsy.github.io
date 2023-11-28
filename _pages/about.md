@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![Tropospheric NO2 over the UK](/images/Global_NO2.png)
-<sub>*Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.*</sub>
+<sub><sub>*Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.*</sub></sub>
 
 Welcome to my personal website! 
 
