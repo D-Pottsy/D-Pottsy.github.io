@@ -15,7 +15,7 @@ I am a PhD student at the University of Leicester, within the Earth Observation 
 ![Tropospheric NO2 over the UK](/images/Global_NO2.png)  
 
 <div dir="rtl">
-<sub><sub>*Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.*</sub></sub>
+<sub><sub>Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.</sub></sub>
   
 <div dir="ltr">
 I've recently began to explore other remote sensing datasets in my spare time, and I've developed a sort of "hobby" out of presenting interesting or relevant Earth observation data, which I post to my twitter. [Take a look!](https://www.twitter.com/Sentinel_DanP)
