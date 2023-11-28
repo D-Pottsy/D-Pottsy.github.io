@@ -18,5 +18,5 @@ If you're interested in anything I do, or would like more info, please feel free
 
 ---
 
-![Tropospheric NO2 over the UK](/images/UK_NO2.png)
+![Tropospheric NO2 over the UK](/images/Global_NO2.png)
 *Tropospheric NO2 over the UK for 2018-2020. Data from TROPOMI/ESA, oversampled onto a 0.01 x 0.01 degree grid.*
