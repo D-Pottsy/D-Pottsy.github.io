@@ -17,7 +17,7 @@ Some examples of current work:
     - TROPOMI, GHGSat, Aircraft
   - WRF-Chem modelling to support emission studies
   - Radiative transfer modelling using SCIATRAN to investigate new sensor concepts
-  - Automated NO$_2$ emission plume identification and quantification using TROPOMI
+  - Automated NO2 emission plume identification and quantification using TROPOMI
 
 ![Tropospheric NO2 over the UK](/images/Global_NO2.png)  
 <p align="center"><sub><sub>Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.</sub></sub></p>
