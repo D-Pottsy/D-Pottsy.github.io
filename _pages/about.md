@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! 
+Welcome to my website! 
 
-I am a PhD student at the University of Leicester, within the Earth Observation Science (EOS) group and the Air Quality (TeamAQ) group. My thesis is titled "Smarter analysis of satellite data for air quality regulators", where I'm working collaboratively with the Environment Agency to explore the potential applications of satellite data products within air quality regulation and management, both within the UK but also internationally. I am also working to prepare the EA and other stakeholders for the next generation of satellites launching in the next 5 years, which will offer a step change in capability.
+I am a Research Associate working at the University of Leicester, within the Earth Observation Science group. My current work focusses on the remote sensing of methane for facility scale regulation, working with a variety of space, air and ground instruments. 
+
+I am also currently a PhD candidate at the University of Leicester, having submitted my thesis in March 2024. My thesis was titled "Smarter analysis of satellite data for air quality regulators", where I worked collaboratively with the Environment Agency to explore the potential applications of satellite data products within air quality regulation and management, both within the UK and internationally. I also worked to prepare the EA and other stakeholders for the next generation of satellites launching in the next 5 years, which will offer a step change in capability.
 
 ![Tropospheric NO2 over the UK](/images/Global_NO2.png)  
 <p align="center"><sub><sub>Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.</sub></sub></p>
