@@ -10,11 +10,11 @@ redirect_from:
 Welcome to my website! 
 
 I am a Research Associate working at the University of Leicester, within the Earth Observation Science group. I am currently working on:
- <p align="center"><sub> - Methane remote sensing for site-specific regulation
+  - Methane remote sensing for site-specific regulation
     - TROPOMI, GHGSat, Aircraft
   - WRF-Chem modelling to support emission studies
   - Radiative transfer modelling using SCIATRAN to investigate new sensor concepts
-  - Automated NO2 emission plume identification and quantification using TROPOMI</sub></p>
+  - Automated NO2 emission plume identification and quantification using TROPOMI
     
 Additionally, I recently submitted my PhD thesis titled "Smarter analysis of satellite data for air quality regulators", where I worked collaboratively with the Environment Agency to explore the potential applications of satellite data products within air quality regulation and management, both within the UK and internationally.
 
