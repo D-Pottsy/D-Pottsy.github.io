@@ -11,7 +11,8 @@ redirect_from:
 Welcome to my website! 
 
 I am a Research Associate working at the University of Leicester, within the Earth Observation Science group. 
-Experience:
+
+Some examples of current work:
 /*:
   - Methane remote sensing for site-specific regulation
     - TROPOMI, GHGSat, Aircraft
