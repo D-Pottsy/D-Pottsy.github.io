@@ -22,7 +22,7 @@ If you're interested in anything I do, or would like more info, please feel free
 
 | [Twitter/X](https://x.com/Sentinel_DanP) | [ResearchGate](https://www.researchgate.net/profile/Daniel-Potts-2)  | [Orcid ID](https://orcid.org/0000-0001-8077-509X) | [Email](dap33@leicester.ac.uk) |    
 | :---: | :---: | :---: | :---: |
-
+|        |      |        |       |
 ![Tropospheric NO2 over the UK](/images/Global_NO2.png)  
 <p align="center"><sub><sub>Tropospheric NO2 averaged over 2021. Data from TROPOMI/ESA, oversampled onto a 0.1 x 0.1 degree grid.</sub></sub></p>
 
