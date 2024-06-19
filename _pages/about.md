@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 ---
 permalink: /
 title: "Home"
@@ -23,11 +28,6 @@ Some examples of current work:
   - Automated NO2 emission plume identification and quantification using TROPOMI
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 
 | Time         | Length        | Speed              | Mass         |
