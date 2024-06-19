@@ -1,15 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
 ---
 permalink: /
 title: "Home"
@@ -33,7 +21,19 @@ Some examples of current work:
   - WRF-Chem modelling to support emission studies
   - Radiative transfer modelling using SCIATRAN to investigate new sensor concepts
   - Automated NO2 emission plume identification and quantification using TROPOMI
-
+  - 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
 
 
 
