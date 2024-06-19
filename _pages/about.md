@@ -20,16 +20,18 @@ I am a Research Associate working at the University of Leicester, within the Ear
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>
+      Some examples of current work:
+        - Methane remote sensing for site-specific regulation
+          - TROPOMI, GHGSat, Aircraft
+        - WRF-Chem modelling to support emission studies
+        - Radiative transfer modelling using SCIATRAN to investigate new sensor concepts
+        - Automated NO2 emission plume identification and quantification using TROPOMI
+      </td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-Some examples of current work:
-  - Methane remote sensing for site-specific regulation
-    - TROPOMI, GHGSat, Aircraft
-  - WRF-Chem modelling to support emission studies
-  - Radiative transfer modelling using SCIATRAN to investigate new sensor concepts
-  - Automated NO2 emission plume identification and quantification using TROPOMI
+
 
 
 
